@@ -2,13 +2,15 @@
 
 ## 📌 Project Overview
 
-This project simulates the role of an IT administrator responsible for implementing Identity and Access Management (IAM) at NexPower Healthcare, a fictional hospital and outpatient medical clinic.
+This project simulates the responsibilities of an IT administrator managing Identity and Access Management (IAM) for NexPower Healthcare, a fictional healthcare organization operating a hospital and outpatient medical clinic.
 
-The organization consists of 20 employees across five departments, along with two contractors requiring controlled access to company resources.
+Using Microsoft Entra ID Free, I created and managed a cloud-based identity environment consisting of **15 fictional user accounts**, including 14 internal employees and one third-party IT contractor. The organization uses seven security groups to organize users by business function.
 
-The objective is to design and manage a structured cloud identity environment using Microsoft Entra ID, following IAM security principles and administrative best practices.
+The lab demonstrates hands-on experience with user provisioning, security group administration, employee account management, password resets, enterprise application assignments, and audit log monitoring.
 
-This project builds on an introductory Entra ID lab and expands it into a more realistic healthcare IT environment.
+I also configured a simulated NexPower Finance Portal enterprise application and assigned access to designated Finance employees. Because this lab uses Microsoft Entra ID Free, application assignments were performed individually rather than through security groups.
+
+The objective of this project is to develop practical IAM and IT support administration skills while applying identity lifecycle management and least-privilege principles in a simulated business environment.
 
 ## 🎯 Project Objectives
 
