@@ -63,8 +63,8 @@ The organization includes employees working at the main office, medical clinic, 
 - [x] Assigned two Finance employees individually to the application.
 - [x] Configured the application to require user assignment.
 - [x] Reviewed audit logs for password resets, account changes, and application assignments.
-- [ ] Uploaded lab screenshots to GitHub.
-- [ ] Completed final README documentation and project review.
+- [x] Uploaded lab screenshots to GitHub.
+- [x] Completed final README documentation and project review.
 
 ## 🔐 Hands-On IAM Exercises
 
@@ -163,10 +163,12 @@ The following screenshots document the IAM administration tasks completed in Mic
 - [Account Re-enabled Audit](07-Audit-Logs/account-reenabled-audit.png)
 - [Finance Application Assignment Audit](07-Audit-Logs/finance-app-assignment-audit.jpg)
   
-## 🚧 Project Status
+## ✅ Project Status
 
-**Technical Lab Completed — GitHub Documentation in Progress.**
+**Completed — October 2026**
 
-The identity administration, security group membership, password reset, account management, enterprise application assignment, and audit log exercises have been completed.
+Successfully completed a hands-on Microsoft Entra ID IAM lab demonstrating user provisioning, security group administration, account lifecycle management, password resets, enterprise application assignments, and audit log verification.
 
-Final screenshot uploads and README documentation are in progress.
+The project includes 15 fictional identities, seven security groups, and 14 screenshots documenting the completed administrative exercises.
+
+**Future Enhancements:** Explore Microsoft Graph PowerShell, automated user provisioning, and additional access control scenarios.
