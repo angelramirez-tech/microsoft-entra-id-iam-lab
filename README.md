@@ -137,20 +137,32 @@ Screenshots intended for public GitHub documentation are reviewed to avoid expos
 
 ## 📸 Lab Documentation
 
-Screenshots are organized into seven folders corresponding to the IAM exercises:
+The following screenshots document the IAM administration tasks completed in Microsoft Entra ID.
 
-| Folder | Documentation |
-|---|---|
-| 01-Security-Groups | Security group creation and organization |
-| 02-User-Accounts | Fictional employee and contractor directory |
-| 03-Group-Memberships | Department-based security group assignments |
-| 04-Password-Resets | Administrative password reset confirmation |
-| 05-Account-Management | User account disable and restoration |
-| 06-Access-Control | Finance Portal application assignments and settings |
-| 07-Audit-Logs | Administrative activity and security auditing |
+### 1. User and Group Administration
+- [Security Groups Overview](01-Security-Groups/security-groups-overview.jpg)
+- [Employee Account Directory](02-User-Accounts/employee-account-directory.jpg)
 
-Screenshots will be uploaded and linked to their corresponding sections as part of the final documentation.
+### 2. Security Group Memberships
+- [IT Department Group Membership](03-Group-Memberships/it-group-membership.jpg)
+- [Clinical Department Group Membership](03-Group-Memberships/clinical-group-membership.jpg)
+- [Contractor Group Membership](03-Group-Memberships/contractor-group-membership.jpg)
 
+### 3. Password and Account Management
+- [Successful Password Reset](04-Password-Resets/password-reset-success.jpg)
+- [User Account Disabled](05-Account-Management/user-account-disabled-Daniel.jpg)
+- [User Account Re-enabled](05-Account-Management/user-account-reenabled-Daniel.jpg)
+
+### 4. Enterprise Application Access
+- [Finance Portal User Assignments](06-Access-Control/finance-app-assignments.jpg)
+- [Finance Portal Assignment Requirement](06-Access-Control/finance-app-assignment-required.png)
+
+### 5. Audit Log Verification
+- [Password Reset Audit](07-Audit-Logs/password-reset-audit.jpg)
+- [Account Disabled Audit](07-Audit-Logs/account-disabled-audit.jpg)
+- [Account Re-enabled Audit](07-Audit-Logs/account-reenabled-audit.png)
+- [Finance Application Assignment Audit](07-Audit-Logs/finance-app-assignment-audit.jpg)
+  
 ## 🚧 Project Status
 
 **Technical Lab Completed — GitHub Documentation in Progress.**
